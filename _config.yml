@@ -11,7 +11,7 @@ title                    : "Sahaj Saxena"
 title_separator          : "-"
 name                     : &name "Sahaj Saxena"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sahajsaxena.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sahaj"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "Patiala"
+  employer         :  Thapar Institute of Engineering and Technology
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wh69FG4AAAAJ&view_op=list_works&sortby=pubdate"
   email            :  sahajsaxena11@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/Sahaj_Saxena"
+  researchgate     :  "https://www.researchgate.net/profile/Sahaj_Saxena"
   uri              :
   bitbucket        :
   codepen          :
