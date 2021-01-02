@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Sahaj"
-  avatar           : "Sahaj Pic.png"
+  avatar           : "Sahaj Pic.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Patiala"
-  employer         :  Thapar Institute of Engineering and Technology
+  employer         : TIET
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wh69FG4AAAAJ&view_op=list_works&sortby=pubdate"
   email            :  sahajsaxena11@gmail.com
   researchgate     :  "https://www.researchgate.net/profile/Sahaj_Saxena"
