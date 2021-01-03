@@ -226,7 +226,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _biosketch
+  # _portfolio
   - scope:
       path: ""
       type: biosketch
