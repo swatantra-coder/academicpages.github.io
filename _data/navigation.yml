@@ -1,4 +1,4 @@
-# main links links
+ng# main links links
 main:
   - title: "Biosketch"
     url: /biosketch/    
@@ -7,10 +7,10 @@ main:
     url: /publications/
 
   - title: "Courses and Students"
-    url: /courses/
+    url: /teachings/
     
   - title: "Talks"
     url: /talks/
      
   - title: "Miscellaneous"
-    url: /miscellaneous/
+    url: /portfolio/
