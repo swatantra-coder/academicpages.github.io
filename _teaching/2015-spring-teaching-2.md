@@ -1,9 +1,9 @@
 ---
 title: "Optimal and Robust Control"
 collection: teaching
-type: "PG"
+type: "Postgraduate"
 permalink: /teaching/2015-spring-teaching-1
-venue: "TIET, EIED"
+venue: "TIET, ELectrical and Instrumentation Engineering Department"
 date: 2021-01-04
 location: "Patiala, India"
 ---
