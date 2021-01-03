@@ -27,8 +27,8 @@ Department of [Electrical Engineering](https://www.iitr.ac.in/departments/EE/), 
 * July 2010 - June 2012: __M.Tech.__ in Electrical Engineering <br> 
 Department of [Electrical Engineering](https://www.iitr.ac.in/departments/EE/), [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html).
 
-* July 2006 - Jun 2010: __B.Tech.__ in Electronics Engineering, [Kamla Nehru Institute of Technology, Sultanpur, Uttar Pradesh](http://www.knit.ac.in/).
+* July 2006 - Jun 2010: __B.Tech.__ in Electronics Engineering, [Kamla Nehru Institute of Technology], Sultanpur, Uttar Pradesh (http://www.knit.ac.in/).
 
 Reviewer
 ========
-* Visit Publon (https://publons.com/researcher/1312046/sahaj-saxena/) to see the complete list of articles reviewed in different journals.
+* Visit [Publon] (https://publons.com/researcher/1312046/sahaj-saxena/) to see the complete list of articles reviewed in different journals.
