@@ -43,10 +43,10 @@ Conferences
 
 Magazine
 ============
-* Krishma Prashar and Sahaj Saxena, Artificial Pancreas: An Engineering Revolution in Healthcare, Electronics For You, pp. 36-38, Nov. 2020.
-2. P. K. Mishra and Sahaj Saxena, Microwave tubes making a comeback, Electronics for You, vol. 43, no. 11, 2011.
-3. Sahaj Saxena and P. K. Mishra, Organic electronics starts a new era, Electronics for You, vol. 42, no. 9, 2010.
-4. Sahaj Saxena and P. K. Mishra, Powering NANO devices, Electronics for You, vol. 41, no. 12, 2009.
+* Krishma Prashar and __Sahaj Saxena__, Artificial Pancreas: An Engineering Revolution in Healthcare, Electronics For You, pp. 36-38, Nov. 2020.
+* P. K. Mishra and __Sahaj Saxena__, Microwave tubes making a comeback, Electronics for You, vol. 43, no. 11, 2011.
+* __Sahaj Saxena__ and P. K. Mishra, Organic electronics starts a new era, Electronics for You, vol. 42, no. 9, 2010.
+* __Sahaj Saxena__ and P. K. Mishra, Powering NANO devices, Electronics for You, vol. 41, no. 12, 2009.
 
 
 PhD Thesis
