@@ -6,14 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Courses and Students"
-    url: /courses/
-    
   - title: "Talks"
     url: /talks/
-     
-  - title: "Tutorials"
-    url: /tutorials/
-    
-    - title: "Miscellaneous"
+        
+  - title: "Miscellaneous"
     url: /portfolio/
