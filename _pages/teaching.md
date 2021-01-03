@@ -1,3 +1,9 @@
+---
+title: "Courses and Students"
+permalink: /teaching/
+author_profile: true
+---
+
 Courses Taught
 ==============
 * Control Systems
