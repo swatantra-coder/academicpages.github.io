@@ -16,15 +16,14 @@ Email - sahaj.saxena@thapar.edu, <br>
 
 Research Interests
 ==================
-* Control Thoery
-** Control aspects in Cybersecurity 
+* Mathematical control thoery
+* Control aspects in Cybersecurity
+* Modelling and control of renewable energy systems
 * Time-delay systems
 * Fractional-order control
-* Modelling and control of renewable energy systems
 * Model order reduction
-* Internal model conrol Control aspects related to unmanned aerial and ground vehicles
-* Control aspects in artificial pancreas
-* Graph Theoretic approach to control
+* Control synthesis for artificial pancreas
+* PID control 
 
 _I am in the look out for students with an interest aligned with my research interests._
 
