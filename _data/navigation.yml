@@ -1,4 +1,4 @@
-ng# main links links
+    # main links links
 main:
   - title: "Biosketch"
     url: /biosketch/    
@@ -11,6 +11,6 @@ main:
     
   - title: "Talks"
     url: /talks/
-     
-  - title: "Miscellaneous"
+    
+    - title: "Miscellaneous"
     url: /portfolio/
