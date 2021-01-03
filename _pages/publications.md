@@ -25,14 +25,30 @@ Journals (published)
 
 Conferences
 ===========
-
+* Sahaj Saxena, Anjali Garg and Yogesh V. Hote, Stability analysis of third- order parametric uncertain nonlinear system, in Proc. International Conference on Computing, Power and Communincation, Greater Noida, India, Sep. 28-29, pp. 646-649, 2018. [[Link]](https://ieeexplore.ieee.org/abstract/document/8674947)
+* Sahaj Saxena and Yogesh V. Hote, PI controller based load frequency control approach for single-area power system having communication delay, in Proc. 3rd IFAC Conference on Advances in Proportional-Integral-Derivative Control, Ghent, Belgium, May 9-11, pp. 622-626, 2018. [[Link]](https://www.sciencedirect.com/science/article/pii/S2405896318304622)
+* Vishwanatha Siddhartha, Yogesh Vijay Hote, Sahaj Saxena, Non-ideal modelling and IMC based PID controller design of PWM DC-DC buck converter, in Proc. 3rd IFAC Conference on Advances in Proportional-Integral-Derivative Control, Ghent, Belgium, May 9-11, pp. 639-644, 2018. [[Link]](https://www.sciencedirect.com/science/article/pii/S2405896318304658)
+* Puneet Panchal, Yogesh V. Hote, __Sahaj Saxena__ and Chitra Krishnamurthi, Reduced order modelling of electrical circuits: simulation and hardware validation, in Proc. International Conference on Computing Communication and Automation, Gautam Buddh Nagar, India, pp. 1492-1496, 2017. [[Link]](https://ieeexplore.ieee.org/abstract/document/8230030)
+* __Sahaj Saxena__, Yogesh V. Hote, and Pushkar Prakash Arya, Reduced-order modeling of commensurate fractional-order systems, in Proc. 14th International Conference on Control, Automation, Robotics and Vision, Phuket, Thailand, 2016. [[Link]](https://ieeexplore.ieee.org/abstract/document/7838855)
+* Sahaj Saxena and Yogesh V. Hote, Dimensionality reduction based IMC-PI tuning for DC servomotor, in Proc. Indian Control Conference, Indian Institute of Technology Hyderabad, India, pp. 461-466, 2016. [[Link]](https://ieeexplore.ieee.org/abstract/document/7441175)
+* __Sahaj Saxena__, Yogesh V. Hote and Swati Sondhi, Fractional-order PI control of DC servo system using the stability boundary locus approach, in Proc. 10th IEEE International Conference on Industrial and Information Systems, University of Peradeniya, Sri Lanka, 2015. [[Link]](https://ieeexplore.ieee.org/abstract/document/7399007)
+*Yogesh V. Hote, __Sahaj Saxena__ and Amar Nath Jha, Controller design via reduced model for DC servo system: An experimental study, in Proc. 10th IEEE International Conference on Industrial and Information Systems, University of Peradeniya, Sri Lanka, 2015. [[Link]](https://ieeexplore.ieee.org/abstract/document/7399006)
+* __Sahaj Saxena__, Yogesh V. Hote and Pradeep Kumar Dhiman, Learning fundamentals of introductory course of automatic control through experimental kits, in Proc. 2015 IEEE 3rd International Conference on MOOCs, Innovation and Technology in Education (MITE), Amritsar, India, pp. 412-415, 2015. [[Link]](https://ieeexplore.ieee.org/abstract/document/7375355)
+* Shivanagouda Biradar, __Sahaj Saxena__ and Yogesh V. Hote, Simplified model identification of automatic voltage regulator using model-order reduction, in Proc. International Conference on Power and Advanced Control Engineering (ICPACE), Bangalore, India, pp. 455-460, 2015. [[Link]](https://ieeexplore.ieee.org/abstract/document/7274985)
+* __Sahaj Saxena__, Palak Anmol and Yogesh V. Hote, User-Friendly MATLAB based graphical user interface for performance analysis of control system, in Proc. 2015 International Conference on Computer and Computational Sciences, ITS Engineering College, Greater Noida, India, pp. 26-31, 2015. [[Link]](https://ieeexplore.ieee.org/abstract/document/7361317)
+* __Sahaj Saxena__ and Yogesh V. Hote, Theory and applications of internal model control scheme: A survey, in Proc. Third National Symposium on Advances in Control & Instrumentation, BARC, Mumbai, India, pp. 16-23, 2014. 
+* Mayank Vishvakarma, Yogesh V. Hote and __Sahaj Saxena__, Applications of model order reduction techniques: A review and future prospects, in Proc. National Symposium on Instrumentation (NSI- 39), Haridwar, India, 2014. 
+* A. C. Thomas, Y. V. Hote and __Sahaj Saxena__, Comparative analysis of cascade fuzzy logic controllers for boiler water level control, in Proc. INDICON, Pune, India, 2014. [[Link]](https://ieeexplore.ieee.org/abstract/document/7030490)
 
 
 Magazine
 ============
-*
+* Krishma Prashar and Sahaj Saxena, Artificial Pancreas: An Engineering Revolution in Healthcare, Electronics For You, pp. 36-38, Nov. 2020.
+2. P. K. Mishra and Sahaj Saxena, Microwave tubes making a comeback, Electronics for You, vol. 43, no. 11, 2011.
+3. Sahaj Saxena and P. K. Mishra, Organic electronics starts a new era, Electronics for You, vol. 42, no. 9, 2010.
+4. Sahaj Saxena and P. K. Mishra, Powering NANO devices, Electronics for You, vol. 41, no. 12, 2009.
 
 
 PhD Thesis
 ===========
-* __Chayan Bhawal__, Control strategies via IMC for Linear and Interval Systems, _Department of Electrical Engineering, Indian Institute of Technology Roorkee_, 2017 [E-mail me for the thesis]
+* __Sahaj Saxena__, Control strategies via IMC for Linear and Interval Systems, _Department of Electrical Engineering, Indian Institute of Technology Roorkee_, 2017 [E-mail me for the thesis]
