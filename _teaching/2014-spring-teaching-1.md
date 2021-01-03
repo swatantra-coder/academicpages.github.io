@@ -1,10 +1,9 @@
 
 Undergraduate course
 ======
-* __Control Systems__ 2020-07-15
+* __Control Systems__ Odd Semester, 2020
 
 Postgraduate course
 ======
-* __Optimal and Robust Control__ 2021-01-04
-Heading 3
-======
+* __Optimal and Robust Control__ Even Semester, 2021
+
