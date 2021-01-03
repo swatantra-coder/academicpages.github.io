@@ -31,4 +31,4 @@ Department of [Electrical Engineering](https://www.iitr.ac.in/departments/EE/), 
 
 Reviewer
 ========
-* Visit [Publon] (https://publons.com/researcher/1312046/sahaj-saxena/) to see the complete list of articles reviewed in different journals.
+* Visit [Publon](https://publons.com/researcher/1312046/sahaj-saxena/) to see the complete list of articles reviewed in different journals.
