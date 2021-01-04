@@ -25,7 +25,7 @@ Research Interests
 * Control synthesis for artificial pancreas
 * PID control 
 
-_I am in the look out for students with an interest aligned with my research interests._
+_I will be happy to supervise students with an interest aligned with my research interests._
 
 News
 ====
