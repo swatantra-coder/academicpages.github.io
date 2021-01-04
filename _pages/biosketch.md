@@ -5,7 +5,7 @@ permalink: /biosketch/
 author_profile: true
 ---
 
-Work experience: 
+Work experience
 ===============
 * Jan 2020 - Present: __Assistant Professor__ <br>
 Electrical and Instrumentation Engineering Department, <br>
