@@ -11,7 +11,7 @@ Work experience
 Electrical and Instrumentation Engineering Department, <br>
 Thapar Institute of Engineering and Technology, Patiala, Punjab. <br>
 _Area of work: Control Systems._
-Supervisor: Professor [Yogesh Vijay Hote](https://www.iitr.ac.in/~EE/yhotefee)
+
 
 * Jan 2019 - Dec 2019: __Postdoctoral Research Fellow__ <br> 
 Department of Electrical Engineering, <br>
@@ -24,9 +24,11 @@ Supervisor: Professor [Emilia Fridman](https://www.eng.tau.ac.il/~emilia/).
 Education
 ======
 * Jan 2013 - Sep 2017: __Ph.D.__ in Electrical Engineering <br> 
+Supervisor: Professor [Yogesh Vijay Hote](https://www.iitr.ac.in/~EE/yhotefee)<br> 
 Department of [Electrical Engineering](https://www.iitr.ac.in/departments/EE/), [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html).
 
 * July 2010 - June 2012: __M.Tech.__ in Electrical Engineering <br> 
+Supervisor: Professor [Yogesh Vijay Hote](https://www.iitr.ac.in/~EE/yhotefee)<br> 
 Department of [Electrical Engineering](https://www.iitr.ac.in/departments/EE/), [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/Main/pages/_en_Indian_Institute_of_Technology_Roorkee__en_.html).
 
 * July 2006 - Jun 2010: __B.Tech.__ in Electronics Engineering, [Kamla Nehru Institute of Technology](http://www.knit.ac.in/), Sultanpur, Uttar Pradesh.
