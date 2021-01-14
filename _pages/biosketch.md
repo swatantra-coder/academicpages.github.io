@@ -11,11 +11,13 @@ Work experience
 Electrical and Instrumentation Engineering Department, <br>
 Thapar Institute of Engineering and Technology, Patiala, Punjab. <br>
 _Area of work: Control Systems._
+Supervisor: Professor [Yogesh Vijay Hote](https://www.iitr.ac.in/~EE/yhotefee)
 
 * Jan 2019 - Dec 2019: __Postdoctoral Research Fellow__ <br> 
 Department of Electrical Engineering, <br>
 Tel Aviv University, Israel. <br>
-_Area of work: Time-delay systems._
+_Area of work: Time-delay systems._<br>
+Supervisor: Professor [Emilia Fridman](https://www.eng.tau.ac.il/~emilia/).
 
 
 
