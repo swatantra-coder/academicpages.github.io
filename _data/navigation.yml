@@ -11,3 +11,6 @@ main:
         
   - title: "Courses and People"
     url: /courses/
+
+- title: "Awards"
+    url: /awards/
