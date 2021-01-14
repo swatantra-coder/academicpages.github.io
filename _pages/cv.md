@@ -1,15 +1,11 @@
 ---
-layout: archive
-title: "CV"
+title: "Awards"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
 
-Education
+Awards
 ======
 * IETE MN Saha Memorial Award-The best application oriented paper
 * College Topper in class 10th and 12th
