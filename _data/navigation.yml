@@ -12,5 +12,5 @@ main:
   - title: "Courses and People"
     url: /courses/
 
-- title: "Awards"
+  - title: "Awards"
     url: /cv/
