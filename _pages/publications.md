@@ -6,7 +6,7 @@ author_profile: true
 
 Journals 
 =============================
-1. Mandeep Sharma, Surya Prakash, and __Sahaj Saxena__,  Robust load frequency control using fractional-order TID-PD approach via salp swarm algorithm, IETE Journal of Research, 2021. [[Link]] (https://www.tandfonline.com/doi/full/10.1080/03772063.2021.1905084) 
+1. Mandeep Sharma, Surya Prakash, and __Sahaj Saxena__,  Robust load frequency control using fractional-order TID-PD approach via salp swarm algorithm, IETE Journal of Research, 2021. [[Link]](https://www.tandfonline.com/doi/full/10.1080/03772063.2021.1905084) 
 2. Mandeep Sharma, Surya Prakash, __Sahaj Saxena__ and Sandeep Dhundhara, Optimal fractional-order tilted-integral-derivative controller for frequency stabilization in hybrid power system using salp swarm algorithm, Electric Power Components and Systems, (Accepted).
 2.  __Sahaj Saxena__ and Yogesh V. Hote, Robustly stabilizing PI controller for uncertain system under computational delay, Journal of Vibration and Control, (Online), Dec. 30, 2020. [[Link]](https://journals.sagepub.com/doi/full/10.1177/1077546320957921)
 3. __Sahaj Saxena__ and Emilia Fridman, Event-triggered load frequency control via switching approach, IEEE Transactions on Power Systems, vol. 35, no. 6, pp. 4484-4494, Nov. 2020. [[Link]](https://ieeexplore.ieee.org/document/8458230)
