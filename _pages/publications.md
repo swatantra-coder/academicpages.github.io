@@ -6,7 +6,7 @@ author_profile: true
 
 Journals 
 =============================
-1. __Sahaj Saxena__ and Shivangauda Biradar, Fractional-order IMC controller for high-order system using reduced-order modelling via Big-Bang, Big-Crunch optimisation, International Journal of Systems Science, 2021. [[Link]](https://www.tandfonline.com/doi/full/10.1080/00207721.2021.1942587)
+1. __Sahaj Saxena__ and Shivanagauda Biradar, Fractional-order IMC controller for high-order system using reduced-order modelling via Big-Bang, Big-Crunch optimisation, International Journal of Systems Science, 2021. [[Link]](https://www.tandfonline.com/doi/full/10.1080/00207721.2021.1942587)
 2. Mandeep Sharma, Surya Prakash, and __Sahaj Saxena__,  Robust load frequency control using fractional-order TID-PD approach via salp swarm algorithm, IETE Journal of Research, 2021. [[Link]](https://www.tandfonline.com/eprint/MARYGZHCI36VGBTKFTSP/full?target=10.1080/03772063.2021.1905084) 
 3. Mandeep Sharma, Surya Prakash, __Sahaj Saxena__ and Sandeep Dhundhara, Optimal fractional-order tilted-integral-derivative controller for frequency stabilization in hybrid power system using salp swarm algorithm, Electric Power Components and Systems, vol. 48, issue 18, pp. 1912-1931, 2020. [[Link]](https://www.tandfonline.com/doi/full/10.1080/15325008.2021.1906792)
 4.  __Sahaj Saxena__ and Yogesh V. Hote, Robustly stabilizing PI controller for uncertain system under computational delay, Journal of Vibration and Control, (Online), Dec. 30, 2020. [[Link]](https://journals.sagepub.com/doi/full/10.1177/1077546320957921)
