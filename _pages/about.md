@@ -29,4 +29,5 @@ _I will be happy to supervise students with an interest aligned with my research
 
 News
 ====
+* 04-Aug-2021: My team of three UG students have received the prestigious UG Chanakya Fellowship of IIT Roorkee. 
 * 27-Sep 2020: Awarded the "IETE-MN Saha Memorial Award (2020)" for the best application oriented [paper](https://www.tandfonline.com/doi/abs/10.1080/02564602.2017.1396935) by The Institute of Electronics and Telecommunincation Engineers.
