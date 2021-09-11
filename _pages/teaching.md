@@ -8,6 +8,7 @@ Courses Taught
 ==============
 * Control Systems
 * Robust and Optimal Control
+* Analog and Digital Devices
 
 Students
 ===============
