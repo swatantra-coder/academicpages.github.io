@@ -20,5 +20,6 @@ main:
     
   - title: "Guide"
     url: /markdown/
-- title: "Guide"
+    
+  - title: "Project"
     url: /markdown/
