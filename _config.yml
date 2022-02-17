@@ -189,6 +189,10 @@ collections:
  talks:
     output: true
     permalink: /:collection/:path/
+    
+ Projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
